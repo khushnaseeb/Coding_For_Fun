@@ -5,8 +5,9 @@ skinflint miser has refused to invest a single dime in their business. They star
 necessary capital.'A' tells that he heard his uncle discussing the safety scheme of his father's new piggy bank. The piggy bank 
 has two locks which need to be supplied with positive numbers a and b with a < b which satisfy the condition a^ 2 + b^2- ab = the
 number on the safe.
-'B' knows that his uncle issued a book on prime numbers from a Library and checking with the book finds that the number on the safeis prime. He also finds out from the book that only primes of the form 3t+1 can be written in this form. Now it is up to you to 
-help 'C'to put a and b together and crack the safe to start the lemonade business.
+'B' knows that his uncle issued a book on prime numbers from a Library and checking with the book finds that the number on the
+safe is prime. He also finds out from the book that only primes of the form 3t+1 can be written in this form. Now it is up to you
+to help 'C'to put a and b together and crack the safe to start the lemonade business.
 Input Format:
 Number of primes
 <List of Primes>
