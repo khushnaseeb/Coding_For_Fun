@@ -7,13 +7,13 @@ using namespace std;
 /*
 Function: min_coin_sum
 Arguments:
- int sum 				 : The sum to be obtained from the given set of coins
- int coin[]			 : set of coins to be used
- int temp_count[]: set of number of times each coin must be used at least if that coin is used
- eg if temp_count[i] =2, then we must use coin[i] atleast twice.
- int n					 : number of coins to be used
+int sum : The sum to be obtained from the given set of coins
+int coin[]: set of coins to be used
+int temp_count[] : set of number of times each coin must be used at least if that coin is used
+eg if temp_count[i] =2, then we must use coin[i] atleast twice.
+int n	: number of coins to be used
 Returns:
- min : Minimum number of coins used to obtain the Sum.
+min : Minimum number of coins used to obtain the Sum.
 */
 
 int min_coin_sum(int sum,int coin[],int temp_count[],int n)
