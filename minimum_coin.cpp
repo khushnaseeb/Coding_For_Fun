@@ -1,6 +1,19 @@
+/*
+Problem Statement:
+Once you had a dream. In your dream, you were playing the assistant to none other than James Bond, in the famous Casino Royale.Bond asked you to bring him coins equivalent to a sum S. As you were approaching the dealer, you were thinking of a way to minimize the number of coins required to make S (the available denominations were known to you). However, upon asking the dealer, you came to know that you had to use at least bk coins of denomination ak, if he chose to use any ak denomination coin. Denomination ak can be anything between 1-100
+Figure out the minimum number of coins required to make the sum S under the new constraints.
+INPUT:
+1. sum to be constituted, S.
+2. the number of available denominations d.
+3. value of the denomination ai and the minimum number of coins that has to be used, bi, if the denomination is used in making the sum
+OUTPUT:
+1. The minimum number of coins required to make the sum S..
+*/
+
+// Soultion
+
 #include <iostream>
 using namespace std;
-  
 // INF to define a very large number
 #define INF 9999 
 
