@@ -1,4 +1,5 @@
- function to display the top view of a binary Tree.
+ /*
+ Function to display the top view of a binary Tree.
 */
 
 /*
